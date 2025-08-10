@@ -21,7 +21,7 @@ Competitive programming & algorithms
 
 
 📫 Connect with me:
-LinkedIn | theenukabandara@gmail.com
+https://www.linkedin.com/in/theenuka-bandara-659a2a32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | theenukabandara@gmail.com
 <!--
 **theenuka/theenuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
