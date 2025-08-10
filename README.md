@@ -1,5 +1,27 @@
-## Hi there 👋
+👋 Hi there! I’m Theenuka Bandara
+🎓 3rd-year Computer Engineering undergraduate at the University of Ruhuna
+💻 Passionate about software development, DevOps, and cybersecurity
+♟ Chess enthusiast | Problem solver | Lifelong learner
 
+What I work with:
+
+Languages: C, C++, C#, Python, JavaScript
+
+Frameworks: WPF, Avalonia UI, Node.js
+
+Tools: Git, Docker, VirtualBox, Linux (Ubuntu Server/Desktop)
+
+Databases: SQLite, MySQL, Mongodb
+
+Currently exploring:
+
+DevOps tools & cloud deployments
+
+Competitive programming & algorithms
+
+
+📫 Connect with me:
+LinkedIn | Email
 <!--
 **theenuka/theenuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
