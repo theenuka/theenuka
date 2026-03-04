@@ -81,12 +81,12 @@ Engineered a **7-stage Jenkins pipeline** for a 5-service containerized app. Ter
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theenuka&theme=github_dark&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theenuka&theme=github_dark&hide_border=true&layout=compact&count_private=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theenuka&theme=github_dark&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theenuka&theme=github_dark&hide_border=true&layout=compact&count_private=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theenuka&theme=github-dark-blue&hide_border=true" width="460" />
+  <img src="https://streak-stats.demolab.com/?user=theenuka&theme=github-dark-blue&hide_border=true" width="460" />
 </div>
 
 ---
