@@ -23,12 +23,6 @@ Trained   →  WSO2 Linux SysAdmin & DevOps Engineering Program (6 months, 7,000
 Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
 ```
 
-<div align="center">
-
-<img src="assets/pipeline.svg" width="100%" alt="code → ci → scan → build → provision → deploy → observe" />
-
-</div>
-
 ## Stack
 
 | | |
