@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner(2).svg" width="100%" alt="Theenuka Bandara — DevOps (Platform) Engineer Intern @ Sysco LABS" />
+<img src="banner (2).svg" width="100%" alt="Theenuka Bandara — DevOps (Platform) Engineer Intern @ Sysco LABS" />
 
 <br/><br/>
 
