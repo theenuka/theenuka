@@ -14,7 +14,7 @@
 
 ## About
 
-DevOps (Platform) Intern at **Sysco LABS Sri Lanka** and Computer Engineering undergrad at the **University of Ruhuna**. Selected from **7,000+ applicants** for the **WSO2 Linux Systems Administration & DevOps Engineering Training Program**, a 6-month intensive I completed before joining Sysco LABS.
+DevOps (Platform) Engineer Intern at **Sysco LABS Sri Lanka** and Computer Engineering undergrad at the **University of Ruhuna**. Selected from **7,000+ applicants** for the **WSO2 Linux Systems Administration & DevOps Engineering Training Program**, a 6-month intensive I completed before joining Sysco LABS.
 
 I care about the boring things that make software reliable: infrastructure as code, CI/CD, observability, and platforms that let developers ship without thinking about the plumbing.
 
