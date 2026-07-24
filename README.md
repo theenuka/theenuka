@@ -1,96 +1,72 @@
 <div align="center">
 
-```
- _____ _                            _            ____                  _                  
-|_   _| |__   ___  ___ _ __  _   _| | ____ _   | __ )  __ _ _ __   __| | __ _ _ __ __ _ 
-  | | | '_ \ / _ \/ _ \ '_ \| | | | |/ / _` |  |  _ \ / _` | '_ \ / _` |/ _` | '__/ _` |
-  | | | | | |  __/  __/ | | | |_| |   < (_| |  | |_) | (_| | | | | (_| | (_| | | | (_| |
-  |_| |_| |_|\___|\___|_| |_|\__,_|_|\_\__,_|  |____/ \__,_|_| |_|\__,_|\__,_|_|  \__,_|
-```
+# Theenuka Bandara
 
-### `Cloud Infrastructure` · `DevOps Engineering` · `Automation`
+**DevOps (Platform) Intern @ Sysco LABS** · WSO2 DevOps Program Alumnus · AWS Certified
 
-[![LinkedIn](https://img.shields.io/badge/-theenuka--bandara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theenuka-bandara-659a2a32b)
-[![Gmail](https://img.shields.io/badge/-theenukabandara-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theenukabandara@gmail.com)
-[![GitHub](https://img.shields.io/badge/-theenuka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theenuka)
+*I build, automate, and break-then-fix cloud infrastructure.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-profile.theenuka.xyz-0ea5e9?style=flat-square&logo=firefox&logoColor=white)](https://profile.theenuka.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theenuka--bandara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theenuka-bandara-659a2a32b)
+[![Email](https://img.shields.io/badge/Email-theenukabandara-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theenukabandara@gmail.com)
 
 </div>
 
----
+## About
 
-```yaml
-name: Theenuka Bandara
-location: Sri Lanka
-education: BSc (Hons) Computer Engineering @ University of Ruhuna
-focus: Building and automating cloud infrastructure on AWS
-currently_learning: [Kubernetes (CKA), Terraform Associate, AWS SAA-C03]
-fun_fact: FIDE-rated chess player ♟️
+DevOps (Platform) Intern at **Sysco LABS Sri Lanka** and Computer Engineering undergrad at the **University of Ruhuna**. Selected from **7,000+ applicants** for the **WSO2 Linux Systems Administration & DevOps Engineering Training Program**, a 6-month intensive I completed before joining Sysco LABS.
+
+I care about the boring things that make software reliable: infrastructure as code, CI/CD, observability, and platforms that let developers ship without thinking about the plumbing.
+
+```text
+Now       →  DevOps (Platform) Intern @ Sysco LABS
+Certified →  AWS Solutions Architect – Associate (SAA-C03)
+Trained   →  WSO2 Linux SysAdmin & DevOps Engineering Program (6 months, 7,000+ applicants)
+Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
 ```
 
----
+## Stack
 
-### ⚙️ Stack
+| | |
+|---|---|
+| **Cloud** | AWS (EC2 · EKS · S3 · RDS · VPC · IAM · ELB · CloudFront · ElastiCache) · GCP (GKE · GCE) |
+| **Kubernetes** | EKS · GKE · Helm · kubeadm (self-hosted clusters) |
+| **Platform Engineering** | Backstage · ArgoCD · Concourse CI · WSO2 Asgardeo |
+| **IaC** | Terraform · Ansible · CloudFormation |
+| **CI/CD** | Jenkins · GitHub Actions · GitLab CI · AWS CodePipeline |
+| **Containers** | Docker · Docker Compose · Trivy |
+| **Observability** | Datadog · CloudWatch · SNS |
+| **Languages** | Python · Bash · Ruby · Java · JavaScript · C++ |
 
-```
-Cloud        →  AWS (EC2 · S3 · RDS · VPC · IAM · ELB · CloudFront · Elastic Beanstalk)
-IaC          →  Terraform · Ansible · CloudFormation
-CI/CD        →  Jenkins · GitHub Actions · AWS CodePipeline · GitLab CI
-Containers   →  Docker · Kubernetes · Docker Compose
-Monitoring   →  CloudWatch · SNS
-Languages    →  Python · Bash · Java · JavaScript · C++
-Tools        →  Git · Nginx · Vagrant · Jira · Linux
-```
+## Featured Work
 
----
+**[Phoenix Booking](https://github.com/theenuka)** · *WSO2 Capstone, Team Lead (10 engineers)*
+Cloud-native hotel reservation system on a **self-hosted 5-node Kubernetes cluster**. Provisioned with Terraform + Ansible, IAM via WSO2 Asgardeo.
+`Kubernetes` `Terraform` `Ansible` `Asgardeo`
 
-### 🏗️ Featured Projects
+**[DevSecOps Pipeline](https://github.com/theenuka/Freights-Management-System)**
+**7-stage Jenkins pipeline** for a 5-service containerized app: Terraform provisioning, Ansible Vault secrets, Trivy scanning, ALB path-based routing with TLS, CloudWatch + SNS alerting.
+`Jenkins` `Terraform` `Trivy` `Ansible Vault` `CloudWatch`
 
-<table>
-<tr>
-<td width="50%">
+**[Sentra – LPR Parking Management](https://github.com/theenuka)**
+License plate recognition parking system: YOLOv8 inference, Flutter client, Supabase backend, **Terraform-provisioned AWS infrastructure**.
+`YOLOv8` `Flutter` `Supabase` `Terraform` `EC2`
 
-#### [`AWS Lift & Shift`](https://github.com/theenuka/AWS-Lift-and-Shift-project)
-Migrated a multi-tier Java app (Tomcat, MySQL, RabbitMQ, Memcached) to AWS EC2 with **ALB across 3 AZs**, Auto Scaling (1-4 instances), custom AMIs, and isolated data tier.
-
-`EC2` `ALB` `ASG` `Route53` `Bash`
-
-</td>
-<td width="50%">
-
-#### [`Cloud-Native Re-Architecting`](https://github.com/theenuka/AWS-Re-Archichitectoring-Project)
-Re-architected the same app by replacing self-managed EC2 with **AWS managed services** — RDS, ElastiCache, Amazon MQ, Elastic Beanstalk, and CloudFront with ACM.
-
+**[Cloud-Native Re-Architecting](https://github.com/theenuka/AWS-Re-Archichitectoring-Project)**
+Replaced self-managed EC2 services with AWS managed equivalents: RDS, ElastiCache, Amazon MQ, Elastic Beanstalk, CloudFront + ACM.
 `Beanstalk` `RDS` `ElastiCache` `CloudFront`
 
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+**[AWS Lift & Shift](https://github.com/theenuka/AWS-Lift-and-Shift-project)**
+Migrated a multi-tier Java stack (Tomcat, MySQL, RabbitMQ, Memcached) to EC2 with **ALB across 3 AZs**, Auto Scaling, custom AMIs, and an isolated data tier.
+`EC2` `ALB` `ASG` `Route53`
 
-#### [`DevSecOps Pipeline`](https://github.com/theenuka/Freights-Management-System)
-Engineered a **7-stage Jenkins pipeline** for a 5-service containerized app. Terraform for provisioning, Ansible Vault for secrets, Trivy for security scanning, Docker Compose on EC2 with ALB path-based routing, TLS, and CloudWatch + SNS alerting.
+## Beyond the Terminal
 
-`Jenkins` `Terraform` `Ansible` `Docker` `Trivy` `CloudWatch`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 Stats
+♟️ FIDE-rated chess player (~1610 classical) · 🏆 **1st place @ HaXtreme hackathon** · 🚩 3rd @ Red Cypher CTF
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theenuka&theme=github_dark&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theenuka&theme=github_dark&hide_border=true&layout=compact&count_private=true" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=theenuka&theme=github-dark-blue&hide_border=true" width="460" />
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theenuka&theme=github_dark&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff" height="160" />
+<img src="https://streak-stats.demolab.com/?user=theenuka&theme=github-dark-blue&hide_border=true" height="160" />
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theenuka&style=flat-square&color=58a6ff&label=profile+views" />
 </div>
