@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Theenuka Bandara — DevOps (Platform) Engineer Intern @ Sysco LABS" />
+<img src="banner(2).svg" width="100%" alt="Theenuka Bandara — DevOps (Platform) Engineer Intern @ Sysco LABS" />
 
 <br/><br/>
 
@@ -29,7 +29,7 @@ Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
 |---|---|
 | **Cloud** | AWS (EC2 · EKS · S3 · RDS · VPC · IAM · ELB · CloudFront · ElastiCache) · GCP (GKE · GCE) |
 | **Kubernetes** | EKS · GKE · Helm · kubeadm (self-hosted clusters) |
-| **Platform Engineering** | Backstage · ArgoCD · Concourse CI · WSO2 Asgardeo |
+| **Platform Engineering** | ArgoCD · Concourse CI · WSO2 Asgardeo |
 | **IaC** | Terraform · Ansible · CloudFormation |
 | **CI/CD** | Jenkins · GitHub Actions · GitLab CI · AWS CodePipeline |
 | **Containers** | Docker · Docker Compose · Trivy |
