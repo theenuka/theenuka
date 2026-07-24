@@ -2,7 +2,7 @@
 
 # Theenuka Bandara
 
-**DevOps (Platform) Intern @ Sysco LABS** · WSO2 DevOps Program Alumnus · AWS Certified
+**DevOps (Platform) Engineer Intern @ Sysco LABS** · WSO2 DevOps Program Alumnus · AWS Certified (SAA - 003)
 
 *I build, automate, and break-then-fix cloud infrastructure.*
 
@@ -19,7 +19,7 @@ DevOps (Platform) Intern at **Sysco LABS Sri Lanka** and Computer Engineering un
 I care about the boring things that make software reliable: infrastructure as code, CI/CD, observability, and platforms that let developers ship without thinking about the plumbing.
 
 ```text
-Now       →  DevOps (Platform) Intern @ Sysco LABS
+Now       →  DevOps (Platform) Engineer Intern @ Sysco LABS
 Certified →  AWS Solutions Architect – Associate (SAA-C03)
 Trained   →  WSO2 Linux SysAdmin & DevOps Engineering Program (6 months, 7,000+ applicants)
 Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
@@ -62,7 +62,7 @@ Migrated a multi-tier Java stack (Tomcat, MySQL, RabbitMQ, Memcached) to EC2 wit
 
 ## Beyond the Terminal
 
-♟️ FIDE-rated chess player (~1610 classical) · 🏆 **1st place @ HaXtreme hackathon** · 🚩 3rd @ Red Cypher CTF
+♟️ FIDE-rated chess player (~1641 classical) · 🏆 **1st place @ HaXtreme hackathon** · 
 
 <div align="center">
 
