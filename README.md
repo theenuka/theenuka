@@ -1,14 +1,12 @@
 <div align="center">
 
-# Theenuka Bandara
+<img src="assets/banner.svg" width="100%" alt="Theenuka Bandara — DevOps (Platform) Engineer Intern @ Sysco LABS" />
 
-**DevOps (Platform) Engineer Intern @ Sysco LABS** · WSO2 DevOps Program Alumnus · AWS Certified (SAA-C03)
+<br/><br/>
 
-*I build, automate, and break-then-fix cloud infrastructure.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-profile.theenuka.xyz-0ea5e9?style=flat-square&logo=firefox&logoColor=white)](https://profile.theenuka.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theenuka--bandara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theenuka-bandara-659a2a32b)
-[![Email](https://img.shields.io/badge/Email-theenukabandara-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theenukabandara@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-profile.theenuka.xyz-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://profile.theenuka.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/theenuka-bandara-659a2a32b)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:theenukabandara@gmail.com)
 
 </div>
 
@@ -23,6 +21,26 @@ Now       →  DevOps (Platform) Engineer Intern @ Sysco LABS
 Certified →  AWS Solutions Architect – Associate (SAA-C03)
 Trained   →  WSO2 Linux SysAdmin & DevOps Engineering Program (6 months, 7,000+ applicants)
 Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
+```
+
+## How I Ship
+
+```mermaid
+graph LR
+    A(("fa:fa-code Code")) --> B["CI · Jenkins / GitHub Actions"]
+    B --> C["Trivy Security Scan"]
+    C --> D["Docker Build & Push"]
+    D --> E["Terraform · Ansible"]
+    E --> F["Deploy · K8s / Beanstalk"]
+    F --> G["Datadog · CloudWatch"]
+    G -.feedback.-> A
+    style A fill:#0d1117,stroke:#58a6ff,color:#e6edf3
+    style B fill:#0d1117,stroke:#30363d,color:#e6edf3
+    style C fill:#0d1117,stroke:#f85149,color:#e6edf3
+    style D fill:#0d1117,stroke:#30363d,color:#e6edf3
+    style E fill:#0d1117,stroke:#a371f7,color:#e6edf3
+    style F fill:#0d1117,stroke:#3fb950,color:#e6edf3
+    style G fill:#0d1117,stroke:#d29922,color:#e6edf3
 ```
 
 ## Stack
