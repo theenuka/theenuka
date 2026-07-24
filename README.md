@@ -23,25 +23,11 @@ Trained   →  WSO2 Linux SysAdmin & DevOps Engineering Program (6 months, 7,000
 Learning  →  CKA · Kubestronaut path (KCNA → KCSA → CKAD → CKA → CKS)
 ```
 
-## How I Ship
+<div align="center">
 
-```mermaid
-graph LR
-    A(("fa:fa-code Code")) --> B["CI · Jenkins / GitHub Actions"]
-    B --> C["Trivy Security Scan"]
-    C --> D["Docker Build & Push"]
-    D --> E["Terraform · Ansible"]
-    E --> F["Deploy · K8s / Beanstalk"]
-    F --> G["Datadog · CloudWatch"]
-    G -.feedback.-> A
-    style A fill:#0d1117,stroke:#58a6ff,color:#e6edf3
-    style B fill:#0d1117,stroke:#30363d,color:#e6edf3
-    style C fill:#0d1117,stroke:#f85149,color:#e6edf3
-    style D fill:#0d1117,stroke:#30363d,color:#e6edf3
-    style E fill:#0d1117,stroke:#a371f7,color:#e6edf3
-    style F fill:#0d1117,stroke:#3fb950,color:#e6edf3
-    style G fill:#0d1117,stroke:#d29922,color:#e6edf3
-```
+<img src="assets/pipeline.svg" width="100%" alt="code → ci → scan → build → provision → deploy → observe" />
+
+</div>
 
 ## Stack
 
